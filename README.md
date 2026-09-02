@@ -62,6 +62,9 @@ Each phase folder contains practice exercises and a mini-project that
 combines that phase's core concepts. Folders are created as each phase
 is reached, not in advance.
 
+Each phase folder also contains its own README.md summarizing what
+was learned and describing the mini-project.
+
 ## 🧰 Tech Stack
 
 - **Language:** Python 3.14
