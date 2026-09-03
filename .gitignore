@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+
+# Practice exercise output files (generated, not source code)
+phase-1-practical-python/exercises/*.json
+phase-1-practical-python/exercises/*.csv
