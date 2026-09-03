@@ -45,13 +45,17 @@ for contact in processed_contacts:
 
 
 for contact in processed_contacts:
+    email_status = "Valid" if contact["email_valid"] else "Invalid"
+
     print(
         f'{contact["name"]} - '
         f'Email: {contact["email"]} '
-        f'({contact["email_valid"]}) - '
+        f'({email_status}) - '
         f'Age: {contact["age"]}'
     )
 
+
 print("\nValid Emails:")
+
 for email in valid_emails:
     print(email)
