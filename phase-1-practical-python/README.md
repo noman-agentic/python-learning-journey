@@ -10,9 +10,7 @@
 
 ## Mini-Project: Automation Data Cleaner
 
-A small automation pipeline that reads messy signup data (CSV), validates
-and normalizes email and phone fields using regex, logs the entire process,
-and writes clean records to a JSON file.
+A small automation pipeline that reads messy signup data (CSV), validates and normalizes email and phone fields using regex, logs the entire process, and writes clean records to a JSON file.
 
 ### How to run
 ```bash
