@@ -4,8 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 ![Focus](https://img.shields.io/badge/Focus-AI%20Automation-informational)
 
-Documenting my journey from Python fundamentals to building AI automation
-agents — with a path toward Applied AI Engineering.
+Documenting my journey from Python fundamentals to building AI automation agents — with a path toward Applied AI Engineering.
 
 ## 🎯 Goals
 
@@ -19,8 +18,8 @@ agents — with a path toward Applied AI Engineering.
 | Phase | Topic | Status |
 |-------|-------|--------|
 | 0 | Foundations Refresh | ✅ Completed |
-| 1 | Practical Python (files, JSON, regex, modules, debugging) | 🔜 In Progress |
-| 2 | Object-Oriented Programming | ⬜ Not Started |
+| 1 | Practical Python (files, JSON, regex, modules, debugging) | ✅ Complete |
+| 2 | Object-Oriented Programming | 🔜 In Progress |
 | 3 | APIs & Web | ⬜ Not Started |
 | 4 | Structured Data & Production Practices | ⬜ Not Started |
 | 5 | Databases & Storage Basics | ⬜ Not Started |
@@ -58,12 +57,9 @@ agents — with a path toward Applied AI Engineering.
         ├── exercises/
         └── final-project/
 
-Each phase folder contains practice exercises and a mini-project that
-combines that phase's core concepts. Folders are created as each phase
-is reached, not in advance.
+Each phase folder contains practice exercises and a mini-project that combines that phase's core concepts. Folders are created as each phase is reached, not in advance.
 
-Each phase folder also contains its own README.md summarizing what
-was learned and describing the mini-project.
+Each phase folder also contains its own README.md summarizing what was learned and describing the mini-project.
 
 ## 🧰 Tech Stack
 
@@ -81,6 +77,5 @@ was learned and describing the mini-project.
 
 ## 📈 Progress Log
 
-- **Sep 2026** — Completed Phase 0 (Foundations): variables, loops,
-  functions, data structures, error handling. Built mini-project:
-  Contact Cleaner & Validator.
+- **September 2026** — Completed Phase 0 (Foundations): variables, loops, functions, data structures, error handling. Built mini-project: Contact Cleaner & Validator.
+- **September 2026** — Completed Phase 1 (Practical Python): File handling, JSON/CSV, Regex, Modules & Packages, Virtual Environments & pip, Debugging & Logging. Built mini-project: Automation Data Cleaner.
