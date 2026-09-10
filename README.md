@@ -18,7 +18,7 @@ Documenting my journey from Python fundamentals to building AI automation agents
 | Phase | Topic | Status |
 |-------|-------|--------|
 | 0 | Foundations Refresh | ✅ Completed |
-| 1 | Practical Python (files, JSON, regex, modules, debugging) | ✅ Complete |
+| 1 | Practical Python (files, JSON, regex, modules, debugging) | ✅ Completed |
 | 2 | Object-Oriented Programming | 🔜 In Progress |
 | 3 | APIs & Web | ⬜ Not Started |
 | 4 | Structured Data & Production Practices | ⬜ Not Started |
