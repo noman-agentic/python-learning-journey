@@ -19,8 +19,8 @@ Documenting my journey from Python fundamentals to building AI automation agents
 |-------|-------|--------|
 | 0 | Foundations Refresh | ✅ Completed |
 | 1 | Practical Python (files, JSON, regex, modules, debugging) | ✅ Completed |
-| 2 | Object-Oriented Programming | 🔜 In Progress |
-| 3 | APIs & Web | ⬜ Not Started |
+| 2 | Object-Oriented Programming | ✅ Completed |
+| 3 | APIs & Web | 🔜 In Progress |
 | 4 | Structured Data & Production Practices | ⬜ Not Started |
 | 5 | Databases & Storage Basics | ⬜ Not Started |
 | 6 | Asynchronous Python | ⬜ Not Started |
@@ -77,5 +77,6 @@ Each phase folder also contains its own README.md summarizing what was learned a
 
 ## 📈 Progress Log
 
-- **September 2026** — Completed Phase 0 (Foundations): variables, loops, functions, data structures, error handling. Built mini-project: Contact Cleaner & Validator.
-- **September 2026** — Completed Phase 1 (Practical Python): File handling, JSON/CSV, Regex, Modules & Packages, Virtual Environments & pip, Debugging & Logging. Built mini-project: Automation Data Cleaner.
+- **[September 2026]** — Completed Phase 0 (Foundations): variables, loops, functions, data structures, error handling. Built mini-project: Contact Cleaner & Validator.
+- **[September 2026]** — Completed Phase 1 (Practical Python): File handling, JSON/CSV, Regex, Modules & Packages, Virtual Environments & pip, Debugging & Logging. Built mini-project: Automation Data Cleaner.
+- **[September 2026]** — Completed Phase 2 (Object-Oriented Programming): classes & objects, attributes/methods/`__init__`, inheritance & polymorphism, dunder methods, decorators. Built mini-project: Task Manager with OOP
