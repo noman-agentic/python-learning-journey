@@ -24,7 +24,6 @@ class UrgentTask(Task):
 
     def __str__(self):
         return f"[{self.status}] {self.title} - {self.deadline}"
-প
 
 task1 = Task("Complete mini project")
 task1.mark_done()
